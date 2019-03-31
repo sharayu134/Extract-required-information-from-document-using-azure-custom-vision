@@ -1,0 +1,1 @@
+# Extract-required-information-from-document-using-azure-custom-vision
